@@ -1,0 +1,11 @@
+[package]
+name = "cretonne-test-emit"
+version = "0.1.0"
+authors = ["Karsten Nikolai Strand <karsten.strand@gmail.com>"]
+
+[dependencies]
+cretonne = { git = "https://github.com/stoklund/cretonne.git" }
+cretonne-frontend = { git = "https://github.com/stoklund/cretonne.git" }
+libc = "0.2"
+winapi = "0.3"
+kernel32-sys = "0.2"

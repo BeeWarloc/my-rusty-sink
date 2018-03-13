@@ -1,0 +1,8 @@
+[package]
+name = "tree-lifetimes"
+version = "0.1.0"
+authors = ["Karsten Nikolai Strand <karsten@fusetools.com>"]
+
+[dependencies]
+typed-arena = "1.3.0"
+smallvec = "0.6"

@@ -1,0 +1,11 @@
+[package]
+name = "learn-about-fft"
+version = "0.1.0"
+authors = ["Karsten Nikolai Strand <karsten@fusetools.com>"]
+
+[dependencies]
+num-complex = "0.1"
+num-traits = "0.2"
+flot = "0.1"
+rustfft = "2.0"
+rand = "0.4"
