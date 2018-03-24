@@ -1,0 +1,16 @@
+[package]
+name = "benchmark-maps"
+version = "0.1.0"
+authors = ["Karsten Nikolai Strand <karsten@fusetools.com>"]
+
+# [dev-dependencies]
+# criterion = "0.2"
+
+[dependencies]
+rand = "0.4"
+time = "0.1"
+fnv = "1.0.6"
+
+# [[bench]]
+# name = "hash_benchmark"
+# harness = false
